@@ -1,0 +1,23 @@
+body {
+    background-image: url("/assets/images/nature.jpg");
+}
+
+h1 {
+    border-bottom: 1px solid;
+}
+
+.container {
+    margin: auto;
+    background-color: rgba(74, 106, 145, 0.242);
+    max-width: 40%;
+    padding: 0.8rem;
+    text-align: center;
+}
+
+#temperature {
+    padding-top: 0.5rem;
+}
+
+.temperature__value {
+    font-weight: bold;
+}
